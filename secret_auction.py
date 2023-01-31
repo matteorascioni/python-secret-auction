@@ -7,7 +7,7 @@ from logo import logo
 print(logo)
 bid_list = []
 
-#create a function to append the new "item" to the bid list_array
+#create a function to append the new "item" to the bid_list
 def create_bid_dictionary(name, bid):
     new_bid = {
         "name": name,
